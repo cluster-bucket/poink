@@ -1,0 +1,25 @@
+{
+  "name": "poink",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dustinboston/poink",
+  "authors": [
+    "Dustin Boston <dustin@dblogit.com>"
+  ],
+  "description": "jQuery plugin which fires a callback when an element is added to the DOM, uses the MutationObserver",
+  "main": "jquery.poink.js",
+  "keywords": [
+    "MutationObserver",
+    "nodeAdded",
+    "elementAdded",
+    "waitForElement",
+    "waitFor"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
